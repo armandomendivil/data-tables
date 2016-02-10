@@ -1,0 +1,20 @@
+{
+  "name": "data-tables",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/armandomendivil/data-tables.git"
+  },
+  "keywords": [],
+  "author": "Armando Mendivil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/armandomendivil/data-tables/issues"
+  },
+  "homepage": "https://github.com/armandomendivil/data-tables#readme"
+}
